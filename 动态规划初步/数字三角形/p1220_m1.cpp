@@ -9,6 +9,7 @@ int a[MAXN][MAXN];
 int d(int i, int j) {
     
     return a[i][j] + (i == N-1 ? 0 : max(d(i+1,j), d(i+1,j+1)));
+
 }
 
 int p1220() {
