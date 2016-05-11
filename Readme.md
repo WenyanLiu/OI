@@ -36,6 +36,8 @@ AC字符串处理
 
 ##### 在线测评系统
 
+> [“蓝桥杯”练习系统](http://lx.lanqiao.org)
+
 > [Code[VS]](http://codevs.cn)
 
 > [POJ](http://poj.org)
